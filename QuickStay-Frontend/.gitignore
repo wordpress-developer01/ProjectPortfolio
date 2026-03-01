@@ -1,0 +1,30 @@
+# Node/Frontend
+node_modules/
+
+# build
+dist/
+build/
+.out/
+.next/
+
+# env
+.env
+.env.local
+
+# caches
+.cache
+.vite
+.parcel-cache
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
